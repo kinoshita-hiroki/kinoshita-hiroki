@@ -1,4 +1,7 @@
 ### I Love Machine Learning 👋
-<p><img src="https://github-readme-stats.vercel.app/api?username=kinoshita-hiroki"></p> 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinoshita-hiroki&layout=compact"></p> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kinoshita-hiroki" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinoshita-hiroki&layout=compact" />
+</a>
